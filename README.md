@@ -22,7 +22,7 @@ Located in the `/python` directory:
 - First version of the security scanner
 - Suitable for quick deployments and scripting
 
-**[👉 Navigate to Python README](/python/README.md)**
+**[👉 Navigate to Python README]([/python/README.md](https://github.com/Salkimmich/security_scanner/tree/main/python_scanner)**
 
 ### 2. Rust Implementation 🦀
 
@@ -31,7 +31,7 @@ Located in the `/rust` directory:
 - Async handling with `tokio`
 - Enhanced efficiency for large-scale scans
 
-**[👉 Navigate to Rust README](/rust/README.md)**
+**[👉 Navigate to Rust README]([/rust/README.md](https://github.com/Salkimmich/security_scanner/tree/main/rust_scanner))**
 
 ## 🔍 Features (Common to Both Implementations)
 
