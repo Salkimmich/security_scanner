@@ -6,6 +6,9 @@ This repository contains two implementations of a GitHub organization
 security scanning tool designed to automatically audit and verify security 
 settings across repositories.
 
+💡 Quick Advice
+Take a moment to review the [Tips & Tricks](https://github.com/Salkimmich/security_scanner/blob/main/tips_and_tricks.md) page before diving into the code. It'll save you hours of debugging and help you understand the nuances of working with GitHub's API and security tools.
+
 ### 🌟 Key Objectives
 
 - **Automate security configuration checks** across GitHub organizations
@@ -14,6 +17,8 @@ settings across repositories.
 - Support comprehensive security scanning
 
 ## 🚀 Implementations
+
+If this is your first time working with
 
 ### 1. Python Implementation 🐍
 
