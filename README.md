@@ -55,13 +55,13 @@ Located in the `/rust` directory:
 
 1. **Python Users**: 
    ```sh
-   cd python
+   cd python_scanner
    # Follow Python README instructions
    ```
 
 2. **Rust Users**:
    ```sh
-   cd rust
+   cd rust_scanner
    # Follow Rust README instructions
    ```
 
