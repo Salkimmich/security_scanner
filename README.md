@@ -113,6 +113,5 @@ We welcome contributions to both implementations!
 This project is released under the Eclipse Public License - v 2.0.
 For more details about the terms and conditions of use, please review the 
 full license text at the provided link.
-Happy Secure Scanning! 🔐🚀
 
-**Happy Secure Scanning!** 🔐🚀
+**Happy Scanning!** 🔐🚀
