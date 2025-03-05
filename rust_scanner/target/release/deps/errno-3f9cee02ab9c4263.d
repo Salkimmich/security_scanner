@@ -1,0 +1,8 @@
+/Users/salkimmich/Documents/eclipse/security_scanner/rust_scanner/target/release/deps/liberrno-3f9cee02ab9c4263.rmeta: /Users/salkimmich/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/errno-0.3.10/src/lib.rs /Users/salkimmich/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/errno-0.3.10/src/unix.rs
+
+/Users/salkimmich/Documents/eclipse/security_scanner/rust_scanner/target/release/deps/liberrno-3f9cee02ab9c4263.rlib: /Users/salkimmich/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/errno-0.3.10/src/lib.rs /Users/salkimmich/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/errno-0.3.10/src/unix.rs
+
+/Users/salkimmich/Documents/eclipse/security_scanner/rust_scanner/target/release/deps/errno-3f9cee02ab9c4263.d: /Users/salkimmich/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/errno-0.3.10/src/lib.rs /Users/salkimmich/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/errno-0.3.10/src/unix.rs
+
+/Users/salkimmich/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/errno-0.3.10/src/lib.rs:
+/Users/salkimmich/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/errno-0.3.10/src/unix.rs:
