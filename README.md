@@ -22,7 +22,7 @@ Located in the `/python` directory:
 - First version of the security scanner
 - Suitable for quick deployments and scripting
 
-**[👉 Navigate to Python README]([/python/README.md](https://github.com/Salkimmich/security_scanner/tree/main/python_scanner)**
+**[👉 Navigate to Python README](https://github.com/Salkimmich/security_scanner/tree/main/python_scanner)**
 
 ### 2. Rust Implementation 🦀
 
