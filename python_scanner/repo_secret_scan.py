@@ -43,7 +43,7 @@ def fetch_repositories(org, token):
 
 def check_secret_scanning(org, repo_name, token):
     """Check the secret scanning status of a single repository. Returns status string."""
-    url = f"https://api.github.com/repos/{org}/{repo_name}/security-and-analysis"
+    url = f"https://api.github.com/repos/{org}/{repo_name}"
     headers = {"Authorization": f"token {token}"} if token else {}
     response = requests.get(url, headers=headers)
     if response.status_code == 404:
